@@ -1,0 +1,11 @@
+{
+  "author": "Patryk Ch.",
+  "name": "Spotify",
+  "description": "",
+  "version": "0.0.1",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "~4.16.0",
+    "request": "~2.83.0"
+  }
+}
